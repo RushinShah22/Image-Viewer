@@ -31,7 +31,7 @@ sudo apt-get install libsdl2-dev
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository-url>](https://github.com/RushinShah22/Image-Viewer)
+    git clone https://github.com/RushinShah22/Image-Viewer
     cd ImageViewer
     ```
 
